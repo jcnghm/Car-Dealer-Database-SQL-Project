@@ -5,4 +5,4 @@
 
 # Database ERD
 - [ERD PDF](https://github.com/jcnghm/Car-Dealer-Database-SQL-Project/blob/master/Car%20Dealership%20ERD.pdf)
--![Site Image Example]()
+-![Site Image Example](https://github.com/jcnghm/Car-Dealer-Database-SQL-Project/blob/master/Car%20Dealership%20ERD.png)
